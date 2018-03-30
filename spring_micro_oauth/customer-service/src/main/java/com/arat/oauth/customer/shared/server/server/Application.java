@@ -1,4 +1,4 @@
-package com.arat.oauth.customer.shared.server.server;
+package com.arat.oauth.customer.shared.server.server;  
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -24,7 +24,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 @EnableResourceServer
 @SpringBootApplication
-@EnableEurekaClient
+@EnableEurekaClient 
 @EnableGlobalMethodSecurity(prePostEnabled=true)
 public class Application extends ResourceServerConfigurerAdapter {
 

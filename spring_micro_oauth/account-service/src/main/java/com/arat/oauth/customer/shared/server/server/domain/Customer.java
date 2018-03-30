@@ -2,7 +2,7 @@ package com.arat.oauth.customer.shared.server.server.domain;
 
 /**
  * 
- * @author Arat
+ * @author Arat 
  *
  */
 public class Customer {

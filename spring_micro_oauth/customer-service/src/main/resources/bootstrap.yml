@@ -3,4 +3,4 @@ spring:
     name: customer-service
   cloud:
     config:
-      uri: http://localhost:9995  
+      uri: http://localhost:9995   

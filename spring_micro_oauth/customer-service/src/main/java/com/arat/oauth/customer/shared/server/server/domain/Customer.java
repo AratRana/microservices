@@ -1,6 +1,6 @@
 package com.arat.oauth.customer.shared.server.server.domain;
 
-import java.io.Serializable;
+import java.io.Serializable; 
 
 /**
  * 

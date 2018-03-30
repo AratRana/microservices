@@ -1,4 +1,4 @@
-package com.arat.zuul;
+package com.arat.zuul; 
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.oauth2.provider.OAuth2Authentication;

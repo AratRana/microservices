@@ -1,4 +1,4 @@
-package com.arat.oauth.customer.shared.server.server.rest;
+package com.arat.oauth.customer.shared.server.server.rest; 
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.RequestMapping;

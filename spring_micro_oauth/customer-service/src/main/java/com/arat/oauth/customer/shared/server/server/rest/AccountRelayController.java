@@ -1,4 +1,4 @@
-package com.arat.oauth.customer.shared.server.server.rest;
+package com.arat.oauth.customer.shared.server.server.rest; 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.oauth2.client.OAuth2RestTemplate;

@@ -6,7 +6,7 @@
     <groupId>org.exampledriven</groupId>
     <name>Customer Service</name>
     <version>0.0.1-SNAPSHOT</version>
-    <artifactId>customer-service</artifactId>
+    <artifactId>customer-service</artifactId> 
     <packaging>jar</packaging>
 
     <parent>

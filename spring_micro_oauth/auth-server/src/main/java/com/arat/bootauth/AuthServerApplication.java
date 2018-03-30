@@ -1,4 +1,4 @@
-package com.arat.bootauth;
+package com.arat.bootauth; 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
