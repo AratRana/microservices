@@ -1,7 +1,9 @@
 package com.arat.oauth.customer.shared.server.server.domain;
 
 /**
- * Created by Peter_Szanto on 6/13/2016.
+ * 
+ * @author Arat
+ *
  */
 public class Customer {
     private int id;

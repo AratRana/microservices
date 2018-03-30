@@ -7,7 +7,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by Peter_Szanto on 4/24/2017.
+ * 
+ * @author Arat
+ *
  */
 @RestController
 public class AccountRelayController {
