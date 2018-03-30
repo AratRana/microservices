@@ -3,6 +3,7 @@ package com.arat.zuul;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth2Sso;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
@@ -13,6 +14,7 @@ import java.net.MalformedURLException;
 @EnableZuulProxy
 @EnableOAuth2Sso
 @SpringBootApplication
+@EnableEurekaClient
 @EnableGlobalMethodSecurity(prePostEnabled=true)
 public class SpringCloudZuulExampleApplication extends WebSecurityConfigurerAdapter {
 

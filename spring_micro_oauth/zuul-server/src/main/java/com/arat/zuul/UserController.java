@@ -9,7 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 import java.security.Principal;
 
 /**
- * Created by Peter_Szanto on 4/21/2017.
+ * 
+ * @author Arat
+ *
  */
 @RestController
 @PreAuthorize("hasRole('ROLE_WRITER')")
